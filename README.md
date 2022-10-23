@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Краткое описание проектов
+# Краткое описание основных проектов
 Язык: Python
 
 ## SmartMenu and NutrisionistBot
