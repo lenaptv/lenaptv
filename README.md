@@ -48,6 +48,9 @@ json, time, PyTelegramBotAPI и др
 Нейросеть (на фреймворке PyTorch) по изображению с веб-камеры (с
 помощью openCV) определяет напиток: pepsi или cola. Инструменты: Jupiter notebook (исследования), Pycharm (программа)
 
+## Pepsi or Cola? Neural network knows!
+Нейросеть определяет напиток: pepsi или cola. Инструменты: Jupiter notebook (исследования), Pycharm (программа)
+
 ## Data visualization
 Примеры визуализации и анализа данных с помощью mathplotlib
 (тепловая карта, матрица рассеяния, гистограмма).
