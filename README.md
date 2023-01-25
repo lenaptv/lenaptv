@@ -49,7 +49,7 @@ json, time, PyTelegramBotAPI и др
 помощью openCV) определяет напиток: pepsi или cola. Инструменты: Jupiter notebook (исследования), Pycharm (программа)
 
 ## :ghost: Horror-Author-Identification 
-LSTM нейросеть (на keras) определяет писателя жанра ужасов по одному предложению.
+LSTM нейросеть (на фреймворке TensorFlow) определяет писателя жанра ужасов по одному предложению.
 
 ## :bar_chart: Data visualization
 Примеры визуализации и анализа данных с помощью mathplotlib
