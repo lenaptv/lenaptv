@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## Tiny-GPT "AI-да Пушкин!"
 Tiny-GPT: трансформер своими лапками. 
 
-Написала  с нуля на PyTorch генеративную моедль: decoder-only, character-based трансформер на основе статьи "Attention is all you need", 2017
+Написала  с нуля на PyTorch генеративную модель: decoder-only, character-based трансформер на основе статьи "Attention is all you need", 2017
 (https://arxiv.org/pdf/1706.03762v5.pdf)
 и двух видео от Андрея Карпаты
 1) https://www.youtube.com/watch?v=kCc8FmEb1nY&t=1s
