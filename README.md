@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 О том, как мы создавали ИИ-помощника для участия в соревнованиях на kaggle  с помощью LoRA-дообучения и с помощью RAG-pipeline.
 См. ноутбук по ссылке
 https://www.kaggle.com/code/elenaptv/kaggle-ai-assistant-w-comments#5.2.-Instruction-tuning-with-LoRA
+
 А также см. видео с моим рассказом с 1 часа 14 минут https://www.youtube.com/watch?v=H1hy9JGAw9c
 
 # NLP-hot
