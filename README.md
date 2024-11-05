@@ -16,20 +16,6 @@ Here are some ideas to get you started:
 -->
 # Краткое описание основных проектов
 Язык: Python
-# AI-assistant for kaggler
-О том, как мы создавали ИИ-помощника для участия в соревнованиях на kaggle  с помощью LoRA-дообучения и с помощью RAG-pipeline.
-См. ноутбук по ссылке
-https://www.kaggle.com/code/elenaptv/kaggle-ai-assistant-w-comments#5.2.-Instruction-tuning-with-LoRA
-
-А также см. видео с моим рассказом с 1 часа 14 минут https://www.youtube.com/watch?v=H1hy9JGAw9c
-
-# NLP-hot
-Материалы и доклады с выступлений по NLP-темам:
-
-- В файле README.md основные моменты текущего состояния NLP (с соотвествующими ссылками на статьи и исследования)
-- Доклад про несложные, но работающие методы advanced RAG-pipeline, проверенные мной на практической задаче
-- Доклад по пониманию интуиции работы трансформеров с помощью инструментов линейной алгебры и теории вероятностей (разбор домашнего задания курса Стэнфорда cs224n)
-- Презентация по теме "Chain-of-Thought: новый подход в prompt-engineering" к докладу для Data-завтрака, прошедшего в г. Екатеринбурге 18.02.23
 
 ## Detection of bot-generated posts in russian social nets
 
